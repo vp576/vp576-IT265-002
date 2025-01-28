@@ -9,10 +9,10 @@
   - Buildorama
   - Planville
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Chosen Name**: RenderBuild Studios
+- **About the name**: "Render" refers to the visualization aspect and "Build" refers to the creation aspect.
+- **Social Medias with name available**: Insta: RenderBuildStudios
+- **Possible domain names available**: renderbuildstudios.com, renderbuild.net
 
 ---
 
