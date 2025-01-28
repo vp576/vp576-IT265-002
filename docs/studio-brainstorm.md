@@ -54,18 +54,18 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> The wide variety of games with realistic simulations that users can customize to their needs is what seperates us fromt the rest.
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** Unity or Unreal Engine
+- **Art Tools:** Blender, Fusion 360, TinkerCAD, Adobe Illustrator
+- **Audio Tools:** Audacity
+- **Version Control:** Github
+- **Publishing Platforms:** Github Pages, Steam.
 
 ---
 
