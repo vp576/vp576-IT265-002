@@ -17,28 +17,28 @@
 ---
 
 ## Vision Statement
-*What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
+*I want to create architectural games where people and engineers alike can use them to model their houses and buildings with highly customizable aspects. For example, they can use these games to completely build out their dream homes from scratch or create unique architecture prototypes.*
 
-> [Write a concise and inspiring vision statement here.]
+> Empowering creativity and innovation in architectural and engineering design through interactive, immersive tools.
 
 ---
 
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- Creative Flexibility
+- Precision and Realism
+- Vast Variety of Models
+- Engaging and Intuitive
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** Engineers, Architects, Designers, Builders, and DIY'ers.
+- **Interests:** Customization and Visualization, Realistic Simulations, Problem Solving.
+- **Platforms:** PC & Web.
 
 ---
 
@@ -46,8 +46,8 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- Simulation Games, Design and Construction.
+- Realistic Engineering and Architecture.
 
 ---
 
