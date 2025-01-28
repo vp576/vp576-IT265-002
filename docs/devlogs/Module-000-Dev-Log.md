@@ -1,43 +1,33 @@
-## Name: 
-### Module:
+## Name: Viswa Puligedda
+### Module: 1
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [01/27/2024]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+
+- Get started with Github. And setup discord.
+- Understand what a game is.
+- Understand what aspects make up game.
+- Start brainstorming for what type of studio I want.
+
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Learned the core objectives of a game.
+  - Learned different aspects in a gameplay.
+  - Finished brainstorming about my studio.
+    
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Brainstorming ideas for my studio was a bit of a challenge.
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Thought about what type of games I would like to see on the market right now and how they can be useful.
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Looked into various website to see what relevant games already exist.
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
+- Could come up with more game ideas for the type of studio I want.
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Think of more ways to enhance the user experience and also a way to get more audience than just specif groups of peeople.
