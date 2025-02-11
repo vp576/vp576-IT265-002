@@ -1,44 +1,33 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Viswa Puligedda
+### Module: 1
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [02/10/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+
+- Learn how to maintain a balance in a game.
+- Intransitive Mechanics
+- Finish case study.
+
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Learnt the different types of balances in a game.
+  - Started case study.
+
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - It was a little challenging to learn about the balancing mechanics and techniques.
+    
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Understood it better when I read over the slides again. 
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Reread slides and do more research if I dont understand anything. 
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
+- N/A
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Finish the case study.
