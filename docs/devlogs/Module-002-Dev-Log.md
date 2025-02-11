@@ -1,6 +1,6 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ## Name: Viswa Puligedda
-### Module: 1
+### Module: 2
 
 <!-- Repeat the below as needed-->
 ### Date: [02/10/2025]
