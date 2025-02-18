@@ -1,16 +1,16 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Viswa Puligedda
+### Module: 3
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [02/17]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+ Example Template (include the brackets to make a checklist, fill them in as appropriate
+- [Learn what components make up a good game] Goal 1
+- [Learn what looks and feels are important in a game] Goal 2
+- [What is color theory? ] Goal 3
+
 
 #### Progress
 - **What I accomplished**:
