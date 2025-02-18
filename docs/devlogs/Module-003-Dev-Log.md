@@ -7,38 +7,26 @@
 
 #### Goals for this Module
  Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [Learn what components make up a good game] Goal 1
-- [Learn what looks and feels are important in a game] Goal 2
-- [What is color theory? ] Goal 3
+- Learn what components make up a good game
+- Learn what looks and feels are important in a game
+- What is color theory? 
 
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - I learned what important comonent makes up a good game.
+  - I played some games to notice what is good or bad about them.
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - A challenge I faced sometimes is distinguishing between good and bad features of a game.
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - I went over the slides to recall what makes up a good game. 
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Different colors have different emotional responses.
+- Sound and visual components can be very critical at times to make a good game.
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
+- N/A
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Finish the case study.
