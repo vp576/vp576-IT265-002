@@ -6,11 +6,10 @@
 ### Date: [02/26/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+- Learn the different types of game mechanics
+- Finish the Color theory case study 
+- [ ] 
+
 
 #### Progress
 - **What I accomplished**:
