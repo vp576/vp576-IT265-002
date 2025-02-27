@@ -7,37 +7,24 @@
 
 #### Goals for this Module
 - Learn the different types of game mechanics
-- Finish the Color theory case study 
-- [ ] 
+- Finish the Color theory case study
+- Finish conceptualizing my board game project. 
 
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Came up with a board game idea.
+  - Learnt the different types of game mechanics.
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Had a rough time with coming up with a board game idea.
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Just imagined what type of physical game board I would want and came up with an idea from there.
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- I learnt all the different game mechanics there are. 
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
+- I have to think a lot more about my board game. Different rules, game styles, the board design. 
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Finalize my game idea and start working on the writing aspect of it. 
