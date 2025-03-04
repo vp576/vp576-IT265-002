@@ -7,25 +7,28 @@
 
 #### Goals for this Module
 - Learn how to plan and manage in game development
-- Finish the design tratment assignment
+- Finish the design treatment assignment
 - Finalize my board game idea
 - Learn Depth and Complexity in gaming
 
 
 #### Progress
 - **What I accomplished**:
-  - Came up with a board game idea.
-  - Learnt the different types of game mechanics.
+  - Learnt more concepts in game development.
+  - Have a rough idea of my game concept
 - **Challenges faced**:
-  - Had a rough time with coming up with a board game idea.
+  - N/A
 - **Solutions**:
-  - Just imagined what type of physical game board I would want and came up with an idea from there.
+  - N/A
 
 #### Learnings
-- I learnt all the different game mechanics there are. 
+- Understanding Depth vs Complexity.
+- Different stages of game plan.
+- A roadmap to developing a game.
 
 #### Free Thinking
-- I have to think a lot more about my board game. Different rules, game styles, the board design. 
+- I have a lot more to think about my game. 
 
 #### Next Steps
-- Finalize my game idea and start working on the writing aspect of it. 
+- Finalize my game idea and start working on the writing aspect of it.
+- Finish the design treatment assignment.
