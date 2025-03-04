@@ -1,9 +1,9 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ## Name: Viswa Puligedda
-### Module: 4
+### Module: 5
 
 <!-- Repeat the below as needed-->
-### Date: [02/26/2025]
+### Date: [03/3/2025]
 
 #### Goals for this Module
 - Learn the different types of game mechanics
