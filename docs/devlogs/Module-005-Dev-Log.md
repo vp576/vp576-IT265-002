@@ -6,9 +6,10 @@
 ### Date: [03/3/2025]
 
 #### Goals for this Module
-- Learn the different types of game mechanics
-- Finish the Color theory case study
-- Finish conceptualizing my board game project. 
+- Learn how to plan and manage in game development
+- Finish the design tratment assignment
+- Finalize my board game idea
+- Learn Depth and Complexity in gaming
 
 
 #### Progress
