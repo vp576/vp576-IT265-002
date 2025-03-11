@@ -6,29 +6,27 @@
 ### Date: [03/10/2025]
 
 #### Goals for this Module
-- Learn how to plan and manage in game development
 - Finish the design treatment assignment
-- Finalize my board game idea
-- Learn Depth and Complexity in gaming
+- Start working on my physical prototype
+- Add more mechanisms to the game
+- Study for the Midterm
 
 
 #### Progress
 - **What I accomplished**:
-  - Learnt more concepts in game development.
-  - Have a rough idea of my game concept
+  - Finished coming up with a board design and a few game mechanics.
 - **Challenges faced**:
-  - N/A
+  - I am struggling to make my game come to life with physical technicalities.
 - **Solutions**:
-  - N/A
+  - I will be using a 3D printed for the physical prototype and come up with some solution.
 
 #### Learnings
-- Understanding Depth vs Complexity.
-- Different stages of game plan.
-- A roadmap to developing a game.
+- Study for the Midterm
 
 #### Free Thinking
-- I have a lot more to think about my game. 
+- I have a lot more to think about my game.
+- Think more about the physical technicalities
 
 #### Next Steps
-- Finalize my game idea and start working on the writing aspect of it.
-- Finish the design treatment assignment.
+- Ace the midterm.
+- Finish the physical prototype.
