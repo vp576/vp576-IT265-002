@@ -6,26 +6,26 @@
 ### Date: [04/21/2025]
 
 #### Goals for this Module
-- Review Presentations
+- Finish Presentations
 - Start with online prototype of the board game
 - Figure out how to do the coding part
-- Present
 
 
 #### Progress
 - **What I accomplished**:
-  - Reviewed presentations
+  - Done with most student presentations
   - Finished my board game design
+  - Have a rough idea of how I will digitalize my game
 - **Challenges faced**:
-  - N/A
+  - A huge challenge I have right now is bringing the different types of crads into my online prototype
 - **Solutions**:
-  - N/A
+  - Will take the professor help and also reduce some things from the actual board game
 
 #### Learnings
-- From the presentations, I learned that my classmates had very unique and interesting game board ideas
+- From the last lecture on cards, I learned that my implementing it in my online prototype will be very difficult, at least in the time given.
 
 #### Free Thinking
-- Have to catch up with some missing work.
+- N/A
 
 #### Next Steps
 - Online Prototype
